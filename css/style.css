@@ -267,7 +267,7 @@ html ::-webkit-scrollbar {
   font-weight: bold;
   margin-top: 70px;
 }
-.heading span {
+.heading6 span {
   color: #ddacf5;
 }
 #contact p {
@@ -311,9 +311,10 @@ html ::-webkit-scrollbar {
   margin-left: 13px;
 }
 
-@media screen and(max-width:766px) {
+@media screen and (max-width: 766px) {
   #contact .container {
     background: #27104e;
+    color: #ddacf5;
   }
   #col {
     width: 100%;
@@ -323,7 +324,7 @@ html ::-webkit-scrollbar {
     height: 150vh;
   }
 }
-@media screen and(max-width:400px) {
+@media screen and (max-width: 400px) {
   #contact input {
     width: 250px;
   }
